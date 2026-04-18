@@ -2,7 +2,7 @@
 ---
 **`Estudante de Tecnologia`**
 
-Me chamo Giovanna Lourenço Tesoro, tenho 17 anos e sou natural de São Paulo. Concluí o ensino médio na FIEB, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIP. Sou interessada na área de tecnologia, com foco em dados e programação, e estou construindo meu portfólio por meio de projetos práticos, estudos contínuos e desenvolvimento de habilidades em lógica de programação, SQL, Excel e Power BI.
+Me chamo Giovanna Lourenço Tesoro, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio na FIEB, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIP. Sou interessada na área de tecnologia, com foco em dados e programação, e estou construindo meu portfólio por meio de projetos práticos, estudos contínuos e desenvolvimento de habilidades em lógica de programação, SQL, Excel e Power BI.
 
 <p align="left">
     <a href="https://github.com/GiovannaTesoro?tab=repositories&sort=stargazers">
