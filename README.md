@@ -1,4 +1,5 @@
 👩‍💻 Giovanna Tesoro
+Estudante de ADS (UNIP) | Foco em Análise de Dados | Python, SQL &amp; Power BI
 ---
 **`Estudante de Tecnologia`**
 
